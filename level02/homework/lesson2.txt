@@ -1,0 +1,6 @@
+name = "Davit"
+lastname = "Narimanidze"
+age = 14
+height = 188 
+
+print ("Goas razmis lideri" , name , lastname , "chven gavicanit ertmaneti swavlis dawyebis dros" , "aris" , str(age) , "wlis da misi simaglea" , height )
