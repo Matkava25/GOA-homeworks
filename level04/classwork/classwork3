@@ -1,7 +1,7 @@
 name = input("enter your name: ")
 surname = input("enter your surname: ")
 city = input("enter your city: ")
-color = input(enter your favourite color: ")
+color = input("enter your favourite color: ")
 food = input("enter your favourite food: ")
 
 print("gamarjoba, chemi saxeli da gvaria " + name + " " + surname + " ",adgili sadac me vimyopebi aris " + city + " . chemi sayvareli peria " + color + ", chemi sayvareli sachmelia " + food)

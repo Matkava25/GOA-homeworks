@@ -50,3 +50,13 @@ team2 = "germany, "
 team3 = "nederlands, "
 team4 = "england. "
 print(name + team + team2 + team3 + team4)
+
+# 3 არასწორი
+
+#name_ :4 teams reached the quarter finals"
+
+#team .= "spain:::"
+#team2_germany:
+#team3_nederland"?
+#team4-_england"
+#print_name+team+_team2+team3+team4)
